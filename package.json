@@ -21,7 +21,7 @@
 		"dotenv": "2.0.0",
 		"electron": "^1.6.5",
 		"react": "16.0.0-alpha.6",
-		"react-dev-utils": "^0.5.2",
+		"react-dev-utils": "^11.0.4",
 		"react-dom": "^15.5.4",
 		"react-native": "0.43.3",
 		"react-native-web": "^0.0.81",
